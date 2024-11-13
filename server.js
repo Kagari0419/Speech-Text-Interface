@@ -1,4 +1,4 @@
-process.env.GOOGLE_APPLICATION_CREDENTIALS = './speech-to-text-interface-fa7162affa01.json';
+//process.env.GOOGLE_APPLICATION_CREDENTIALS = './speech-to-text-interface-fa7162affa01.json';
 
 
 const express = require('express');
